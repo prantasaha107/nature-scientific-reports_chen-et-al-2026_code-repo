@@ -1,6 +1,6 @@
-# Source code for "A Regulatory Network Informed Investigation of macrophage cAMP dynamics during Mycobacterium tuberculosis infection" 
+# Simulation code for "A Regulatory Network Informed Investigation of macrophage cAMP dynamics during Mycobacterium tuberculosis infection" 
 
-Code used to generate results for the paper "A Regulatory Network Informed Investigation of macrophage cAMP dynamics during Mycobacterium tuberculosis infection" by Chris Chen, Pranta Saha, Joyce Reimer, Shaun Wachter, Jeff Chen, Gordon Broderick, and Neeraj Dhar.
+Code used for simulated perturbations in the paper "A Regulatory Network Informed Investigation of macrophage cAMP dynamics during Mycobacterium tuberculosis infection" by Chris Chen, Pranta Saha, Joyce Reimer, Shaun Wachter, Jeff Chen, Gordon Broderick, and Neeraj Dhar.
 
 ## Contents
 * MTb regulatory network file: `MTb_network.xlsx`
