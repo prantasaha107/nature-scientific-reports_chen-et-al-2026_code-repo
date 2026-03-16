@@ -35,7 +35,7 @@ elif model_type == 2:
 # --- Input file --------------------------------------------------------------
 file = "embio-protein-entities_Mtb_API_test.xlsx"
 
-# Read source and target entity lists (single column each)
+# Read source and target entity lists (singl column each)
 source_entities = pd.read_excel(
     file, sheet_name="source_entities",
     header=0, index_col=None, usecols="A", engine="openpyxl"
