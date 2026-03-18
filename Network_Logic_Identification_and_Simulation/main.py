@@ -13,10 +13,10 @@ node_to_plot = 62 # cAMP = 62. Refer to Excel file for other species' indices.
 
 
 # Path to network xlsx file
-sourceTarget_file = "./MTb_network.xlsx"
+sourceTarget_file = "./MTb_Network-Chen_et_al_2026.xlsx"
 
 # Path to the model csv file
-models_file="./MTb_models.csv"
+models_file="./models_out_example.csv"
 
 
 # usually this is set to 2 (0 = low, 1 = baseline, 2 = high)
